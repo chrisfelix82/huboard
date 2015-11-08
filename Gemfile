@@ -42,7 +42,7 @@ gem 'sucker_punch'
 gem 'raygun4ruby'
 gem 'rack-attack'
 gem 'redcarpet'
-
+gem 'unicorn'
 gem 'pdfkit'
 gem 'wkhtmltopdf-heroku'
 
@@ -66,4 +66,3 @@ group :development, :test do
   gem 'couchrest'
   gem 'httparty'
 end
-
